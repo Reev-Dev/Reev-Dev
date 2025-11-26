@@ -31,8 +31,7 @@
 
 ## 📊 GitHub Stats:
 <div align="start">
-  <img src="https://github-readme-stats.vercel.app/api?username=Reev-Dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reev-Dev&theme=dark&hide_border=false&layout=compact" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reev-Dev&layout=donut" width="49%" />
 </div>
 
 ---
