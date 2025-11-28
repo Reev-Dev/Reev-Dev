@@ -31,8 +31,11 @@
 
 ## 📊 GitHub Stats:
 <div align="start">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reev-Dev&layout=donut" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reev-dev&layout=donut" alt="Top Languages" width="49%" />
 </div>
+<!-- <p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fismart1&layout=compact&theme=default" alt="Top Languages" height="150" />
+</p> -->
 
 ---
 
